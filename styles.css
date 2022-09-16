@@ -1,0 +1,35 @@
+.title{
+    font-size:50px;
+    font-family: Garamond;
+    text-align:center;
+}
+
+.list-name{
+  font-size:35px;
+  font-family: Garamond;
+  text-align:center;
+}
+
+.list{
+  font-size: 25px;
+  font-family: Garamond;
+  text-align:center;
+}
+
+.poem-title{
+  font-size:40px;
+  font-family: Garamond;
+  text-align:center;
+}
+
+.author{
+  font-size:20px;
+  font-family: Garamond;
+  text-align:center
+}
+
+.poem{
+  font-size:25px;
+  font-family: Garamond;
+  text-align:center;
+}
